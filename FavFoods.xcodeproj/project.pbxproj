@@ -14,6 +14,7 @@
 		3094EB8A2C3F860E00966620 /* FavFoodsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3094EB892C3F860E00966620 /* FavFoodsTests.swift */; };
 		3094EB942C3F860E00966620 /* FavFoodsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3094EB932C3F860E00966620 /* FavFoodsUITests.swift */; };
 		3094EB962C3F860E00966620 /* FavFoodsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3094EB952C3F860E00966620 /* FavFoodsUITestsLaunchTests.swift */; };
+		3094EBA32C3F864200966620 /* GetStartedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3094EBA22C3F864200966620 /* GetStartedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3094EB8F2C3F860E00966620 /* FavFoodsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FavFoodsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3094EB932C3F860E00966620 /* FavFoodsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavFoodsUITests.swift; sourceTree = "<group>"; };
 		3094EB952C3F860E00966620 /* FavFoodsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavFoodsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3094EBA22C3F864200966620 /* GetStartedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetStartedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				3094EB782C3F860D00966620 /* FavFoodsApp.swift */,
 				3094EB7A2C3F860D00966620 /* ContentView.swift */,
+				3094EBA22C3F864200966620 /* GetStartedView.swift */,
 				3094EB7C2C3F860E00966620 /* Assets.xcassets */,
 				3094EB7E2C3F860E00966620 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3094EBA32C3F864200966620 /* GetStartedView.swift in Sources */,
 				3094EB7B2C3F860D00966620 /* ContentView.swift in Sources */,
 				3094EB792C3F860D00966620 /* FavFoodsApp.swift in Sources */,
 			);
